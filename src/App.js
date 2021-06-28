@@ -1,5 +1,6 @@
 //feature 1
-// i have some changes to feature 1
+ // chanes to feature 1 done
+
 import React from 'react'
 function App() {
   return (
